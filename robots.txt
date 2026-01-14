@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dazzling-chimera-a4f313.netlify.app/sitemap.xml
